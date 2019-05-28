@@ -1,0 +1,226 @@
+[
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558735817252,
+            "changeTime": 1558735817252,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558735817252,
+            "changeTime": 1558735817252,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558735817253,
+            "changeTime": 1558735817253,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558735817252,
+            "changeTime": 1558735817252,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559076381350,
+            "changeTime": 1559076381350,
+            "contentHash": "360dd8e454c3b700f7d4af236200368ddd41e9a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559064748788,
+            "changeTime": 1559064748788,
+            "contentHash": "c4f5c53c9e3fa98e7b41f54b72a11b17045711fb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.html",
+            "isDirectory": false,
+            "size": 311,
+            "modifiedTime": 1559068180132,
+            "changeTime": 1559068180132,
+            "contentHash": "7370b68224894ea36930868027b9816896bb817c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1559064872795,
+            "changeTime": 1559064872795,
+            "contentHash": "3434a5c8686cb4c9fe4cb6b043a5b12a36c6b9d1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\helloWorld\\helloWorld.js-meta.xml",
+            "isDirectory": false,
+            "size": 369,
+            "modifiedTime": 1559064884647,
+            "changeTime": 1559064884647,
+            "contentHash": "5096584b5c9a0e0e20d15d487c516c53bfd14862",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1559076724697,
+            "changeTime": 1559076724697,
+            "contentHash": "c23c8b4122b66763264fa003c3d95e70acb9e02b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.css",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.css",
+            "isDirectory": false,
+            "size": 130,
+            "modifiedTime": 1559076732144,
+            "changeTime": 1559076732144,
+            "contentHash": "b59daac9eafcefc09d4198ea392bb8a777d43f7a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.html",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.html",
+            "isDirectory": false,
+            "size": 629,
+            "modifiedTime": 1559076643487,
+            "changeTime": 1559076643487,
+            "contentHash": "ac52d776862e2250c5f81a4da661984511e9daeb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.js",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.js",
+            "isDirectory": false,
+            "size": 633,
+            "modifiedTime": 1559076708259,
+            "changeTime": 1559076708259,
+            "contentHash": "52b9f191d7f4e6dcec2a2782e79abeaaf7c9f07a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2\\force-app\\main\\default\\lwc\\simpleApp\\simpleApp.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1559077454281,
+            "changeTime": 1559077454281,
+            "isWorkspace": false,
+            "contentHash": "a04328474899e2f89e0b0aa88919a24a2f771cd6"
+        }
+    ],
+    [
+        "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2",
+        {
+            "sourcePath": "C:\\Users\\batherto\\SalesforceDX\\HelloWorldLightningWebComponent2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558735839103,
+            "changeTime": 1558735839103,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
