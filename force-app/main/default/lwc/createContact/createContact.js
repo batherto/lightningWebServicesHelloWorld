@@ -1,3 +1,9 @@
-import { LightningElement } from 'lwc';
+import { LightningElement, api, track } from 'lwc';
 
-export default class CreateContact extends LightningElement {}
+export default class ContactForm extends LightningElement {
+
+    @api recordId;
+    @api objectApiName;
+    @track fields = ['Name', 'Title', 'Phone', 'Email'];
+ 
+}
